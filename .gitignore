@@ -1,0 +1,28 @@
+# Ignore environment files
+.env*
+# Node modules
+node_modules/
+# Python caches
+__pycache__/
+# Build outputs
+dist/
+build/
+# Vite cache
+.vite/
+# Android build artifacts
+android/app/build/
+# IDE folders
+.vscode/
+.idea/
+# OS files
+.DS_Store
+# Private keys and credentials
+*.pem
+*.key
+*.crt
+# Logs
+*.log
+# Uploaded user data
+uploads/
+# Existing entry
+.vercel

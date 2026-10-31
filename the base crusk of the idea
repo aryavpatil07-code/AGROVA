@@ -1,0 +1,12 @@
+# Agrova - Smart Mandi Rates, Quality Grading & Storage Platform
+
+## Hackathon Vision
+Agrova empowers farmers and wholesale buyers with real-time market intelligence, quality certification, and cold-storage booking to prevent distress selling.
+
+## Key Features
+1. **Live Mandi Rates Hub**: Real-time market prices across Indian APMC Mandis (Indore, Karnal, Rajkot, Bharatpur, Agra, Kolar, etc.) with search, state filtering, min/max/modal rate metrics, and daily price fluctuation indicators.
+2. **AI Price Forecasting & ROI Simulator**: Historic trend visualizer with AI sell vs. hold advice and an interactive storage profit calculator.
+3. **Crop Quality & Grading Suite**: Tests moisture %, foreign matter, and grain damage to calculate Quality Grades (A+, A, B, C) and official price premium certificates.
+4. **WDRA Warehouse & Cold Storage Locator**: Nearby storage finder with distance, daily rental rates per quintal, capacity tracking, and e-NWR bank pledge loan eligibility.
+5. **Wholesale Buyer Portal**: Direct bulk crop procurement, verified lab quality grades, and online bidding.
+6. **React + Vite Framework Masterclass**: An interactive embedded learning guide explaining React components, `useState`, `useEffect`, `props`, and Vite bundling step-by-step.
